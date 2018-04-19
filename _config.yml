@@ -1,6 +1,6 @@
 # main text of home
 name: Zoltán Holoda
-bio: man, husband, father, son, bother, friend
+bio: man, husband, father, son, brother, friend
 
 # twitter summary info
 description: A blog about software development
@@ -55,7 +55,7 @@ email: holoda@gmail.com
 authors:
     zoltanholoda:
         name: Zoltán Holoda
-        bio: man, husband, father, son, bother, friend
+        bio: man, husband, father, son, brother, friend
         external-image: false
         picture: assets/images/profile.jpg
         twitter: zoltanholoda
